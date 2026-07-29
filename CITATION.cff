@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you reference this work, please cite it as below."
+title: "Cost-Effectiveness of Diagnostic and Treatment Strategies for Severe Angina: A Decision-Analytic Health Technology Assessment"
+abstract: >-
+  A decision-analytic Health Technology Assessment comparing no treatment,
+  medical management, exercise stress testing, and direct coronary angiography
+  for severe-angina referrals in a Sheffield cardiology department. Built to the
+  NICE reference case using a decision tree, Bayesian probability revision, QALY
+  estimation, net-monetary-benefit decision rules, and one-way, two-way, and
+  value-of-improvement sensitivity analyses.
+type: report
+authors:
+  - family-names: Manjunath
+    given-names: Harshitha
+keywords:
+  - health technology assessment
+  - health economics
+  - cost-effectiveness analysis
+  - decision-analytic modelling
+  - QALY
+  - net monetary benefit
+  - coronary angiography
+  - NICE reference case
+license: CC-BY-4.0
+date-released: 2025-01-01
